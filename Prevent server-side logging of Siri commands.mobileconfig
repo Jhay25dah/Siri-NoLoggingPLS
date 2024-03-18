@@ -26,6 +26,8 @@
 	<key>PayloadDisplayName</key>
 	<string>Prevent server-side logging of Siri commands</string>
 	<key>PayloadIdentifier</key>
+	<key>forceWiFiPowerOn</key>
+			<true/>
 	<string>jankais3r-nologgingsiri</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
